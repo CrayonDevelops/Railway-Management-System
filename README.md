@@ -5,7 +5,7 @@ This system allows clients to **view trains, book tickets, and check seat availa
 
 ---
 
-## 🌟 Features
+##  Features
 
 ### Client Dashboard
 - User login and registration
@@ -22,7 +22,7 @@ This system allows clients to **view trains, book tickets, and check seat availa
 
 ---
 
-## ⚡ Installation
+## Installation
 
 1. Clone the repository:
 
